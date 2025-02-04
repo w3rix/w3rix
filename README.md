@@ -21,7 +21,7 @@
 <ul style="list-style: none;" align="center">
   <li>Kotlin</li>
   <li>PHP</li> 
-  <li>Apache Hadoop (Hive, HDFS, HBase, Spark and MapReduce)*</li>
+  <li>Apache Hadoop (Hive, HDFS, HBase, Spark and MapReduce)</li>
   <li>NoSQL</li>
   <li>SparkSQL</li>
 </ul>
