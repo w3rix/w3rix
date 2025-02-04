@@ -18,6 +18,19 @@ I'm a Sophomore Software Engineering Student at Bilkent University (CTIS). I am 
 
 ---
 
+<p>
+  ---
+## 🎓 Currently Learning
+
+•⁠  ⁠*Kotlin*
+•⁠  ⁠*React*
+•⁠  ⁠*Node.js*
+•⁠  ⁠*Express.js*
+•⁠  ⁠*PHP*
+
+---
+</p>
+
 ## 📫 Contact Me
 <p align="center">
   <a href="[https://www.linkedin.com/in/meric-cengiz](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BwAM2XmbQQgOEOvLHdhrNvA%3D%3D)" target="_blank">
