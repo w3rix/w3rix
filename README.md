@@ -3,7 +3,8 @@
 ---
 
 ## 📌 About Me
-I'm a Sophomore Software Engineering Student at Bilkent University (CTIS). I am interested in Artificial Intelligence and Big Data.
+<p align="center">I'm a Sophomore Software Engineering Student at Bilkent University (CTIS). I am interested in Artificial Intelligence and Big Data.
+</p>
 
 ---
 
@@ -21,13 +22,11 @@ I'm a Sophomore Software Engineering Student at Bilkent University (CTIS). I am 
 <p>
   ---
 ## 🎓 Currently Learning
-
-•⁠  ⁠*Kotlin*
-•⁠  ⁠*React*
-•⁠  ⁠*Node.js*
-•⁠  ⁠*Express.js*
-•⁠  ⁠*PHP*
-
+  <a>*Kotlin*</a>
+  <a>*PHP*</a> 
+  <a>*Apache Hadoop (Hive, HDFS, HBase, Spark and MapReduce)*</a>
+  <a>*NoSQL*</a>
+  <a>*SparkSQL*</a>
 ---
 </p>
 
