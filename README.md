@@ -20,13 +20,13 @@
 ---
 
 ## 🎓 Currently Learning
-<p>
-  <a>*Kotlin*</a>
-  <a>*PHP*</a> 
-  <a>*Apache Hadoop (Hive, HDFS, HBase, Spark and MapReduce)*</a>
-  <a>*NoSQL*</a>
-  <a>*SparkSQL*</a>
-</p>
+<ul>
+  <li>*Kotlin*</li>
+  <li>*PHP*</li> 
+  <li>*Apache Hadoop (Hive, HDFS, HBase, Spark and MapReduce)*</li>
+  <li>*NoSQL*</li>
+  <li>*SparkSQL*</li>
+</ul>
 
 ---
 
