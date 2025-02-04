@@ -7,8 +7,7 @@
 </p>
 
 ---
-
-## 🛠 Tech Stack
+<h1 align="center">## 🛠 Tech Stack</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -21,11 +20,11 @@
 
 ## 🎓 Currently Learning
 <ul>
-  <li>*Kotlin*</li>
-  <li>*PHP*</li> 
-  <li>*Apache Hadoop (Hive, HDFS, HBase, Spark and MapReduce)*</li>
-  <li>*NoSQL*</li>
-  <li>*SparkSQL*</li>
+  <li>Kotlin/li>
+  <li>PHP</li> 
+  <li>Apache Hadoop (Hive, HDFS, HBase, Spark and MapReduce)*</li>
+  <li>NoSQL</li>
+  <li>SparkSQL</li>
 </ul>
 
 ---
