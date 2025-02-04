@@ -19,7 +19,6 @@
 
 ---
 
-<p>
 ## 🎓 Currently Learning
 <p>
   <a>*Kotlin*</a>
