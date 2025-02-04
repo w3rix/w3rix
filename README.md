@@ -19,7 +19,7 @@
 ---
 
 <h1 align="center">## 🎓 Currently Learning</h1>
-<ul align="center" style="list-style:none;">
+<ul style="list-style: none; text-align: center; padding: 0;">
   <li>Kotlin</li>
   <li>PHP</li> 
   <li>Apache Hadoop (Hive, HDFS, HBase, Spark and MapReduce)*</li>
