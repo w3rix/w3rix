@@ -36,4 +36,7 @@
   <a href="mailto:meric.cengiz@ug.bilkent.edu.tr">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="http://github.com/w3rix">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
+  </a>
 </p>
