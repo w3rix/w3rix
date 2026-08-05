@@ -3,7 +3,7 @@
 ---
 
 <h1 align="center">📌 About Me</h1>
-<p align="center">I'm a Sophomore Software Engineering Student at Bilkent University (CTIS). I am interested in Artificial Intelligence and Big Data.</p>
+<p align="center">I'm a Senior Software Engineering Student at Bilkent University (CTIS). I have hands-on experience in Backend Web Development and AWS, interested in Artificial Intelligence and Big Data.</p>
 
 ---
 <h1 align="center">🛠 Tech Stack</h1>
@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 </p>
+
 
 
 ---
