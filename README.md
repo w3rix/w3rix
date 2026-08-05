@@ -1,4 +1,4 @@
-<h1 align="center"> Meriç Cengiz | Software Engineering Sophomore </h1>
+<h1 align="center"> Meriç Cengiz | Senior Software Engineering Student </h1>
 
 ---
 
@@ -15,7 +15,9 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 </p>
+
 
 ---
 
