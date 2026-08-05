@@ -59,7 +59,7 @@
 
 <h1 align="center">📫 Contact Me</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BwAM2XmbQQgOEOvLHdhrNvA%3D%3D" target="_blank">
+  <a href="www.linkedin.com/in/mericcengiz">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:meric.cengiz@ug.bilkent.edu.tr">
