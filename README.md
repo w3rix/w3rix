@@ -23,10 +23,22 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 </p>
 
-<h1 align="center">☁️ Certification</h1>
+<h1 align="center"> Certifications</h1>
 
 <p align="center">
-  AWS Certified Solutions Architect – Associate
+  <a href="https://www.credly.com/badges/0f5a098e-7911-43a8-81d9-74962a50d4ee/linked_in_profile">
+    <strong>AWS Certified Solutions Architect – Associate</strong>
+  </a>
+  <br>
+  
+  <a href="https://www.credly.com/badges/91196e10-34b3-41e6-a01d-8fbc787814bf/linked_in_profile">
+    <strong>Cisco Certified Network Associate (CCNA)</strong>
+  </a>
+  <br>
+  
+  <a href="https://drive.google.com/file/d/1fElw6Rb9iK1NOV4kz-oDYF5s1Tch047L/view">
+    <strong>Commencis Cloud Camp 2026</strong>
+  </a>
 </p>
 
 
